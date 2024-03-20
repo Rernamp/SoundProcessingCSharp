@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SoundProcessingCSharp": {
+      "commandName": "Project",
+      "commandLineArgs": "./../../../TestFiles/sound.wav ./../../../TestFiles/noise.wav"
+    }
+  }
+}
